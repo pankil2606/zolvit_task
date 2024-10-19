@@ -6,7 +6,6 @@ This Python script extracts invoice data from PDF files and saves it to a CSV fi
 - [Requirements](#requirements)
 - [Usage](#usage)
 - [Functionality](#functionality)
-- [License](#license)
 
 ## Requirements
 
