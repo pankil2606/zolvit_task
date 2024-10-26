@@ -1,0 +1,124 @@
+Invoice Number,Invoice Date,Due Date,Customer Name,Items,Taxable Amount,CGST,SGST,Total Amount,Total Discount,Total Items / Qty,Amount in Words
+INV-135,01 Mar 2024,01 Mar 2024,Mohith Saragur,"Tab flucon 400 mg
+Lupizol ZS Shampoo 100 ml
+Anaboom AD Lotion - 50 ml",691.22,22.19,22.19,793.00,117.28,3,INR Seven Hundred And Ninety-Three Rupees Only.
+INV-129,23 Feb 2024,23 Feb 2024,Divya Suhane,"sotret nf 16 mg - 10 capsules
+Ekran Aqua Sunscreen Spf ","1,117.05",50.91,50.91,"1,267.00",172.80,2,"INR One Thousand, Two Hundred And Sixty-Seven Rupees Only."
+INV-118,30 Jan 2024,30 Jan 2024,Rashu,Vitamin b12 test,350.00,0,0,350.00,,1,INR Three Hundred And Fifty Rupees Only.
+INV-103,27 Jan 2024,27 Jan 2024,Jaiprakash Kumawat,"Arachitol Nano (60k) *5 ml
+Neurobion Forte - 30 tablets",987.33,53.92,53.92,"1,111.00",155.71,2,"INR One Thousand, One Hundred And Eleven Rupees Only."
+INV-99,16 Jan 2024,16 Jan 2024,Indraja,"Dermatologist Consultation
+Acutret 20 mg - 10 capsules
+Isotroin 20 mg - 10 capsules
+Biluma cream - 15 gm","2,091.55",79.75,79.75,"2,334.00",438.11,4,"INR Two Thousand, Three Hundred And Thirty-Four Rupees Only."
+INV-145,28 Mar 2024,28 Mar 2024,Indraja Mohite,"Acutret 20 mg - 10 capsules
+due last bill","1,917.86",111.47,111.47,"2,141.00",520.20,2,"INR Two Thousand, One Hundred And Forty-One Rupees Only."
+INV-140,06 Mar 2024,06 Mar 2024,Ankit,"Keraglo Men Tablet - 30 tablets
+Kera-FM % Topical Solution",999.36,31.28,31.28,"1,148.00",286.99,2,"INR One Thousand, One Hundred And Forty-Eight Rupees Only."
+INV-149,22 Mar 2024,01 Apr 2024,Karishma Bande,Excela Moisturiser - 50 gm,370.64,33.36,33.36,437.00,59.64,1,INR Four Hundred And Thirty-Seven Rupees Only.
+INV-112,29 Jan 2024,29 Jan 2024,Gauri,"Niosalic 6 Ointment
+Halox ES Ointment
+Beltas Tablet - 20 mg
+Solasafe sunscreen gel spf ","1,062.56",34.91,34.91,"1,219.00",242.09,4,"INR One Thousand, Two Hundred And Nineteen Rupees Only."
+INV-144,28 Mar 2024,28 Mar 2024,Atia Latif,"Bioderma Pigmentbio C-concentrate 
+Arachitol Nano (60k) *5 ml
+Solasafe sunscreen gel spf 
+Lab test - full body checkup
+GFC PRP","21,914.71",731.95,731.95,"24,047.00",933.16,5,INR Twenty-Four Thousand And Forty-Seven Rupees Only.
+INV-133,01 Mar 2024,01 Mar 2024,Sheetal Kapur,"Glogeous facewash
+Bristaa Intense Cream
+Anaboom AD Lotion - 50 ml
+Anaboom AD Shampoo
+Acutret 5 mg","2,302.15",14.61,14.61,"2,702.00",471.03,5,"INR Two Thousand, Seven Hundred And Two Rupees Only."
+INV-117,01 Feb 2024,29 Jan 2024,Naman,"Kera M % Solution
+Arachitol Nano (60k) *5 ml
+Neurobion Forte - 30 tablets","1,483.32",83.50,83.50,"1,667.00",290.02,3,"INR One Thousand, Six Hundred And Sixty-Seven Rupees Only."
+INV-142,07 Mar 2024,07 Mar 2024,Urmila Jangam,Kera XL New Hair Growth Serum ,874.58,78.71,78.71,"1,032.00",258.00,1,INR One Thousand And Thirty-Two Rupees Only.
+INV-116,29 Jan 2024,29 Jan 2024,Shefali,"Arachitol Nano (60k) *5 ml
+MEOD (15 tabs)
+Livogen-Z Captabs 15's","1,837.72",89.99,89.99,"2,018.00",275.14,3,INR Two Thousand And Eighteen Rupees Only.
+INV-104,27 Jan 2024,27 Jan 2024,Joseph Wincet,"Cutacapil Stem - 60 ml 
+Follihair AMPM Tablet Gluten Free -  tablets .
+Dermaq Basic Hair Test Men - B12, V-D & TST .
+Arachitol Nano (60k) *5 ml
+Dermatologist Consultation
+Vitamin b12 test","5,558.30",61.28,61.28,"6,219.00",580.96,6,"INR Six Thousand, Two Hundred And Nineteen Rupees Only."
+INV-150,22 Mar 2024,01 Apr 2024,Bhusan Naresh,Ahaglow Advanced Skin Rejuvenating Face Wash Gel -  gm .,394.51,35.51,35.51,466.00,63.48,1,INR Four Hundred And Sixty-Six Rupees Only.
+INV-136,15 Feb 2024,04 Mar 2024,Rishabh Ramola,Solasafe sunscreen gel spf ,961.36,86.52,86.52,"1,134.00",283.60,1,"INR One Thousand, One Hundred And Thirty-Four Rupees Only."
+INV-106,27 Jan 2024,27 Jan 2024,Kamakshi Thakkar,"Comprehensive Hair & Health Test - S- ilver
+Arachitol Nano (60k) *5 ml
+Neurobion Forte - 30 tablets","3,938.46",53.92,53.92,"4,063.00",602.02,3,INR Four Thousand And Sixty-Three Rupees Only.
+INV-138,06 Mar 2024,06 Mar 2024,Agrani Kandele,"Cetaphil Gentle Cleansing Lotion - Oily
+Skin 125 ml 
+Solasafe sunscreen gel spf 
+IPCA Acne OC Moisturizer Cream -  gm .","1,275.34",114.78,114.78,"1,505.00",308.10,3,"INR One Thousand, Five Hundred And Five Rupees Only."
+INV-113,29 Jan 2024,29 Jan 2024,Raghvendra,Arachitol Nano (60k) *5 ml,898.73,53.92,53.92,"1,007.00",137.26,1,INR One Thousand And Seven Rupees Only.
+INV-141,06 Mar 2024,06 Mar 2024,Kasturi Kalwar,"Acne-UV Gel - spf  (50 gm)
+Bioderma Sebium Hydra Moisturiser -  ml .","1,486.02",133.74,133.74,"1,754.00",296.50,2,"INR One Thousand, Seven Hundred And Fifty-Four Rupees Only."
+INV-147,29 Mar 2024,29 Mar 2024,Divya Suhane,"Solasafe sunscreen gel spf 
+Trapic 500 TA -  .
+Depiwhite Advanced Cream - 15 ml
+Fixderma Shadow SPF + Cream
+Sortet F 16 mg - 10 cap","3,746.82",12.23,12.23,"4,015.00",652.31,5,INR Four Thousand And Fifteen Rupees Only.
+INV-73,15 Feb 2024,26 Oct 2023,Avik Mallick,"DermaQ Comprehensive Hair Health Diagnostic Test 
+Hair Nutrition Plan
+8x Shampoo
+LONITAB .5 mg
+Anaboom AD Lotion - 50 ml
+Uprise D60K Capsules -  .
+MEOD (15 tabs)
+tab dutamax .5 mg
+Uprise-D3 60K - 8 Capsule","5,374.02",186.70,186.70,"5,791.00","3,796.34",9,"INR Five Thousand, Seven Hundred And Ninety-One Rupees Only."
+INV-102,24 Jan 2024,24 Jan 2024,Kasturi Kalwar,"Acne-UV Gel - spf  (50 gm)
+Cetaphil gentle cleansing lotion -  ML .
+Depiwhite Advanced Cream - 15 ml
+Neurobion Forte - 30 tablets
+Benzac AC %","2,161.54",4.94,4.94,"2,546.00",495.82,5,"INR Two Thousand, Five Hundred And Forty-Six Rupees Only."
+INV-124,10 Feb 2024,10 Feb 2024,Ankita Sattva,"Arachitol Nano (60k) *5 ml
+Neurobion Forte - 30 tablets","1,125.52",61.28,61.28,"1,115.00",152.02,2,"INR One Thousand, One Hundred And Fifteen Rupees Only."
+INV-107,29 Jan 2024,29 Jan 2024,Prashant,Bioderma Pigmentbio C-concentrate ,"2,232.33",200.91,200.91,"2,634.00",464.85,1,"INR Two Thousand, Six Hundred And Thirty-Four Rupees Only."
+INV-143,28 Mar 2024,28 Mar 2024,Prashant,"Arachitol
+PRP","6,563.98",133.50,133.50,"7,612.00",880.00,2,"INR Seven Thousand, Six Hundred And Twelve Rupees Only."
+INV-127,23 Feb 2024,23 Feb 2024,Avik Mallick,"Vitamin b12 test
+HBA1C Test
+Last bill pending",943.77,0,0,944.00,662.23,3,INR Nine Hundred And Forty-Four Rupees Only.
+INV-121,29 Jan 2024,29 Jan 2024,Jitesh Soni,"Acne-UV Gel - spf  (50 gm)
+Arachitol Nano (60k) *5 ml",870.93,0,0,"1,010.00",285.94,2,INR One Thousand And Ten Rupees Only.
+INV-115,29 Jan 2024,29 Jan 2024,Akhil Abhay,"Arachitol Nano (60k) *5 ml
+MEOD (15 tabs)
+Keraglo Men Tablet - 30 tablets","2,933.70",89.99,89.99,"3,372.00",652.06,3,"INR Three Thousand, Three Hundred And Seventy-Two Rupees Only."
+INV-110,29 Jan 2024,29 Jan 2024,Kushagra Tiwari,"Arachitol Nano (60k) *5 ml
+MEOD (15 tabs)","1,499.80",89.99,89.99,"1,680.00",229.06,2,"INR One Thousand, Six Hundred And Eighty Rupees Only."
+INV-146,29 Mar 2024,29 Mar 2024,Abhikaran Jalonha,"Cetaphil DAM Advance Ultra-Hydrati- ng Lotion Face -  gm .
+Ahaglow Advanced Skin Rejuvenating Face Wash Gel .
+Acutret 20 mg - 10 capsules
+Faireye under eye cream
+Biluma cream - 15 gm","3,348.16",74.31,74.31,"3,877.00",674.48,5,"INR Three Thousand, Eight Hundred And Seventy-Seven Rupees Only."
+INV-98,16 Jan 2024,16 Jan 2024,Monika,"Acne-UV Gel - spf  (50 gm)
+Keraglo- AD shampoo
+Bioderma Pigmentbio C-concentrate 
+Cetaphil gentle cleansing lotion -  ML .
+Anaboom AD Lotion - 50 ml","3,921.54",352.94,352.94,"4,627.00",675.58,5,"INR Four Thousand, Six Hundred And Twenty-Seven Rupees Only."
+INV-100,24 Jan 2024,24 Jan 2024,Agrani Kandele,"Acne UV Gel - 30 SPF
+Clindac-A mist spray
+AKNAYBAR soap","1,108.27",23.52,23.52,"1,284.00",298.77,3,"INR One Thousand, Two Hundred And Eighty-Four Rupees Only."
+INV-134,01 Mar 2024,01 Mar 2024,Sheetal Kapur,ATODERM Moisturiser,723.77,65.14,65.14,854.00,44.95,1,INR Eight Hundred And Fifty-Four Rupees Only.
+INV-114,29 Jan 2024,29 Jan 2024,Vaibhav Bhagat,"Acne-UV Gel - spf  (50 gm)
+Neurobion Forte - 30 tablets
+Arachitol Nano (60k) *5 ml","1,607.67",53.92,53.92,"1,843.00",338.71,3,"INR One Thousand, Eight Hundred And Forty-Three Rupees Only."
+INV-123,08 Feb 2024,08 Feb 2024,Asit,"Arachitol Nano (60k) *5 ml
+Neurobion Forte - 30 tablets",990.46,53.92,53.92,"1,115.00",152.02,2,"INR One Thousand, One Hundred And Fifteen Rupees Only."
+INV-148,30 Mar 2024,01 Apr 2024,harshit rathore,"Zincovit tablet
+Sevenseas Cap","1,076.40",36.39,36.39,"1,234.00",168.24,2,"INR One Thousand, Two Hundred And Thirty-Four Rupees Only."
+INV-128,23 Feb 2024,23 Feb 2024,Atia Latif,Hydrafacial,"2,076.27",186.86,186.86,"2,450.00",550.00,1,"INR Two Thousand, Four Hundred And Fifty Rupees Only."
+INV-101,24 Jan 2024,24 Jan 2024,Abhikaran Jalonha,"Solasafe sunscreen gel spf 
+Dermatologist Consultation
+Ahaglow Advanced Skin Rejuvenating Face Wash Gel .
+Acutret 10 capsules
+Biluma cream - 15 gm
+Triluma Cream - 15 gm
+Isotroin 10 MG - 10 Capsule
+Cetaphil DAM Advance Ultra-Hydrati- ng Lotion Face -  gm .","3,200.20",59.67,59.67,"3,654.00",597.94,8,"INR Three Thousand, Six Hundred And Fifty-Four Rupees Only."
+INV-105,27 Jan 2024,27 Jan 2024,Urmila Jangam,"Acne-UV Gel - spf  (50 gm)
+keraglo Eva - 30 Tablet
+Cetaphil Moisturising Lotion with Avo- cado Oil, Vitamin E, B3 & B5 -  ml .","1,972.81",177.55,177.55,"2,328.00",466.08,3,"INR Two Thousand, Three Hundred And Twenty-Eight Rupees Only."
